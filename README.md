@@ -2,9 +2,10 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Software development
 - 📫 E-Mail: jadek9930@gmail.com
-- 
+
+
 ```mermaid
-  flowchart TD
+  flowchart LR
     A(START)
 
     B[wake up]
